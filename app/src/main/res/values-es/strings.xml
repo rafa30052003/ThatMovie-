@@ -13,6 +13,9 @@
     <string name="register_title">Crear una cuenta</string>
     <string name="first_name_hint">Nombre</string>
     <string name="last_name_hint">Apellido</string>
+    <string name="password_hint2">Contraseña</string>
+    <string name="username_hint2">Nombre de usuario</string>
     <string name="register_button">Registrar</string>
+
     <string name="textView5">Bienvenido</string>
 </resources>

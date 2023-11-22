@@ -14,7 +14,10 @@
     <string name="register_title">Crea un account</string>
     <string name="first_name_hint">Nome</string>
     <string name="last_name_hint">Cognome</string>
-    <string name="register_button">Registrati</string>
+    <string name="password_hint2">Password</string>
+    <string name="username_hint2">Nome utente</string>
+    <string name="register_button">Registra</string>
+
     <string name="textView5">Bienvenuto</string>
 
 </resources>
