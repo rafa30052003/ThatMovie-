@@ -13,6 +13,11 @@
     <string name="register_title">Create an Account</string>
     <string name="first_name_hint">First Name</string>
     <string name="last_name_hint">Last Name</string>
+    <string name="password_hint2">Password</string>
+    <string name="username_hint2">Username</string>
     <string name="register_button">Register</string>
+
+
     <string name="textView5">Welcome</string>
+
 </resources>
