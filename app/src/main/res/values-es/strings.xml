@@ -1,0 +1,17 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">ThatMovie+</string>
+    <string name="title" translatable="false">ThatMovie+</string>
+    <string name="subtitle" translatable="false">Transformar pantallas en experiencias</string>
+    <string name="username_hint" translatable="false">Usuario</string>
+    <string name="password_hint" translatable="false">Contraseña</string>
+    <string name="forgot_password" translatable="false">¿Olvidaste tu contraseña?</string>
+    <string name="login_button" translatable="false">Iniciar</string>
+    <string name="no_account" translatable="false">¿No tienes cuenta?</string>
+    <string name="register_now" translatable="false">Registrate ahora</string>
+
+    <string name="register_title">Crear una cuenta</string>
+    <string name="first_name_hint">Nombre</string>
+    <string name="last_name_hint">Apellido</string>
+    <string name="register_button">Registrar</string>
+</resources>

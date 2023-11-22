@@ -1,3 +1,17 @@
+<!-- res/values/strings.xml -->
 <resources>
     <string name="app_name">ThatMovie+</string>
+    <string name="title">ThatMovie+</string>
+    <string name="subtitle">Transforming Screens into Experiences</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Your Password?</string>
+    <string name="login_button">Login</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="register_now">Register Now</string>
+
+    <string name="register_title">Create an Account</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="register_button">Register</string>
 </resources>
