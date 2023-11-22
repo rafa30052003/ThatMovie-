@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">ThatMovie+</string>
-    <string name="title" translatable="false">ThatMovie+</string>
-    <string name="subtitle" translatable="false">Trasformare gli schermi in esperienze</string>
-    <string name="username_hint" translatable="false">Nome utente</string>
-    <string name="password_hint" translatable="false">Password</string>
-    <string name="forgot_password" translatable="false">Avete dimenticato la password?</string>
-    <string name="login_button" translatable="false">Accesso</string>
-    <string name="no_account" translatable="false">Non hai un account?</string>
-    <string name="register_now" translatable="false">Registrati ora</string>
+    <string name="title" >ThatMovie+</string>
+    <string name="subtitle" >Trasformare gli schermi in esperienze</string>
+    <string name="username_hint" >Nome utente</string>
+    <string name="password_hint" >Password</string>
+    <string name="forgot_password" >Avete dimenticato la password?</string>
+    <string name="login_button" >Accesso</string>
+    <string name="no_account" >Non hai un account?</string>
+    <string name="register_now" >Registrati ora</string>
 
 
     <string name="register_title">Crea un account</string>
     <string name="first_name_hint">Nome</string>
     <string name="last_name_hint">Cognome</string>
     <string name="register_button">Registrati</string>
+    <string name="textView5">Bienvenuto</string>
+
 </resources>
